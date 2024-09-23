@@ -4,7 +4,7 @@ requests==2.18.4
 Pillow
 wrapcache==1.0.8
 ntplib
-sklearn
+scikit-learn
 opencv-python
 keras==2.2.4
 tensorflow==1.14.0
